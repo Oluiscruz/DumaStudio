@@ -2,7 +2,7 @@ import Perfil from '../assets/Perfil.jpg';
 import { FaWhatsapp } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
-import Verificar from '../assets/Verificar.png'
+import Verificar from '../assets/verificar.png'
 
 
 import '../App.scss';
