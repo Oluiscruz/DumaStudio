@@ -40,7 +40,7 @@ const Conteudo = () => {
                             <FaTiktok />
 
                         </i>
-                        <a href="https://www.tiktok.com/@dumatss?_r=1&_t=ZS-91NkrXtHsXf">Tiktok <span>✨💋</span></a></li>
+                        <a href="https://www.tiktok.com/@dumartinstudio">Tiktok <span>✨💋</span></a></li>
                     <li>
                         <i>
                             <FaInstagram />
